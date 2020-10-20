@@ -1,0 +1,2 @@
+database name : myshop
+table name : categories
